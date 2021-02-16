@@ -1,0 +1,91 @@
+body{
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #131723;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 25px;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    color: #000000;
+    font-weight: 700;
+    font-style: italic;
+    font-variant: normal;
+}
+
+.titulo{
+    margin-top: 4%;
+    margin-bottom: 0%;
+}
+
+.subtitle{
+    font-size: 11px;
+    text-shadow: 1px 1px 4px white;
+}
+
+textarea{
+    resize: none;
+    width: 350px;
+    height: 290px;
+}
+
+.container-flex{
+    display: flex;
+    flex-flow: row;
+    margin-top: 4%;
+}
+
+.container{
+    padding: 45px;
+    background: #e9eaee;
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-style: solid;
+    border-width: 1px;
+    box-shadow: 2px 2px 4px #000000;
+}
+p,h3,h2,h1{
+    color: #58a6f0;
+    text-shadow: 2px 2px 4px #000000;
+}
+.input1{
+    background-color:rgb(255, 50, 50);
+    margin-right: -38px;
+}
+.input2{
+    background-color: rgb(0, 199, 0);
+}
+.input3{
+    background-color: #58a6f0;
+    align-self: flex-end;
+}
+.input4{
+    background-color: yellow;
+    align-self: flex-end;
+    margin-left: -38px;
+}
+
+input[type=text] {
+    display: flex;
+    border-style: solid;
+    border-width: 1px;
+    height: 18px;
+    width: 32px;
+    font-size: 14pt;
+    flex-direction: row;
+}
+
+input[type=button] {
+    border-style: solid;
+    border-radius: 15px;
+    border-width: 1px;
+    background-color: #fcfcfcfc;
+    width: 125px;
+    height: 35px;
+    box-shadow: 2px 2px 4px #000000;
+}

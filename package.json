@@ -1,0 +1,20 @@
+{
+  "name": "Border-Simulator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pauloqueiros/Border-Simulator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pauloqueiros/Border-Simulator/issues"
+  },
+  "homepage": "https://github.com/pauloqueiros/Border-Simulator#readme"
+}
