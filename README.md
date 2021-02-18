@@ -4,7 +4,7 @@ link: https://bordersimulator.netlify.app/
 
 > A propriedade border-radius pode ter vários valores alterados. Visualize a aparência da forma ao alterar esses valores.
 
-![](./img/brs.png)
+![](./brs.png)
 
 ## Usage example
 
